@@ -49,6 +49,10 @@
       margin: 5px;
     }
 
+    input[type=checkbox], [type=radio] {
+      min-width: auto;
+    }
+
     button {
       background-color: rgb(62, 62, 255);
       border-radius: 5px;
